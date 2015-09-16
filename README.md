@@ -1,1 +1,1 @@
-# chinese_circle_android_
+# chinese_circle_personal_edition_android
